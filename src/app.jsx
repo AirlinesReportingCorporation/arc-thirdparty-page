@@ -373,7 +373,7 @@ class App extends Component {
                 </div>
                 <div className="arc-thirdparty-datasource-copy">
                   ASP contains all tickets sold via approximately 10,000 U.S.
-                  travel agency locations on 220+ airlines, including domestic
+                  travel agency locations on 230+ airlines, including domestic
                   and international trips in all major GDSs. We currently
                   estimate that 35% of airline tickets sold in the U.S. are
                   captured in ASP.
